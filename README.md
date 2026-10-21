@@ -25,3 +25,4 @@ A responsive React + Vite + Tailwind website for SB Tech Solution.
 - Replace the sample portfolio cards with real work only after project details are available.
 - Email and business address are intentionally marked as configurable until supplied.
 "# SB_Tech-website" 
+"# SB_Tech-website" 
